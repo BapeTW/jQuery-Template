@@ -1,1 +1,6 @@
-// JavaScript Code
+// TITLE
+"use strict"; // Use strict mode
+
+
+
+
